@@ -1,5 +1,5 @@
 ﻿  Functions.cpp
-  Source.cpp
-C:\Users\camos\source\repos\Mini-Project\Mini-Project\Source.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Generating Code...
-  Mini-Project.vcxproj -> C:\Users\camos\source\repos\Mini-Project\x64\Debug\Mini-Project.exe
+C:\Users\Shawn\source\repos\MiniProject\Mini-Project\Functions.cpp(10,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Shawn\source\repos\MiniProject\Mini-Project\Functions.cpp(99,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Shawn\source\repos\MiniProject\Mini-Project\Functions.cpp(135,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Mini-Project.vcxproj -> C:\Users\Shawn\source\repos\MiniProject\x64\Debug\Mini-Project.exe
